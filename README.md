@@ -87,4 +87,5 @@ POST http://localhost:8080/calculate
 ```
 
 ### Special notes
-To change quantity, please change the respective item quanttities in the "itemQuantityMap" of the sample input JSON
+1. To change quantity of items in basket, please change the respective item quantities in the "itemQuantityMap" of the sample input JSON.
+2. The API produces and consumes JSON. Add Content-Type as application/json in request header.
