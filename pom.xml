@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.test</groupId>
 	<artifactId>pengine</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>pengine</name>
 	<description>Spring boot project for implementation of Promotion engine</description>
 
